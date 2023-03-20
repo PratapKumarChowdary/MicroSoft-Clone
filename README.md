@@ -1,4 +1,4 @@
-# MicroSoft-Clone
+# Microsoft-Clone
 
 #### Microsoft Website Clone Project using HTML & CSS
 
